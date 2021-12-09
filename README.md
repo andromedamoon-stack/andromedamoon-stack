@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @andromedamoon-stack
-- 👀 I’m interested in Game Development and later on adding more Software Engineering skills
-- 🌱 I’m currently learning C#, Unity, Git
+- 👀 I’m interested in Game Development and Windows Application Development
+- 🌱 I’m currently learning C#, Unity, Git, .NET
 - 💞️ I’m looking to collaborate on - Check back in mid 2022
 - 📫 How to reach me ... andromedamoon26@gmail.com
 
