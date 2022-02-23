@@ -6,9 +6,7 @@
 
 🧰 Toolbox
 
-<img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" alt="C# Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt="CSS Logo" width="50" height="50"/>
-
-<img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="PythonLogo" width="50" height="50"/> <img src=https://cdn.worldvectorlogo.com/logos/dot-net-core-7.svg" alt=". Net Logo" width="50" height="50"/> 
+<img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" alt="C# Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="VSCLogo" width="50" height="50"/><img src="https://cdn.worldvectorlogo.com/logos/unity-69.svg" alt=" UnityLogo" width="50" height="50"/><img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="PythonLogo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/dot-net-core-7.svg" alt=".NetLogo" width="50" height="50"/> 
 ---
 
 -👀 I’m interested in Software Engineering and Game Development (Unity & Godot) 
