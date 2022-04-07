@@ -6,7 +6,7 @@
 
 🧰 Toolbox
 
-<img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" alt="C# Logo" width="35" height="35"/> <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="VSCLogo" width="35" height="35"/><img src="https://cdn.worldvectorlogo.com/logos/unity-69.svg" alt=" UnityLogo" width="25" height="25"/><img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="PythonLogo" width="35" height="35"/> <img src="https://cdn.worldvectorlogo.com/logos/dot-net-core-7.svg" alt=".NetLogo" width="35" height="35"/> <img src="https://cdn.worldvectorlogo.com/logos/debian.svg" alt="DebianLogo" width="35" height="35"/> 
+<img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" alt="C# Logo" width="35" height="35"/> <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="VSCLogo" width="35" height="35"/><img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="PythonLogo" width="35" height="35"/><img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="html Logo" width="35" height="35"/> <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="hcssLogo" width="35" height="35"/> <img src="https://cdn.worldvectorlogo.com/logos/flask.svg" alt="flask Logo" width="35" height="35"/><img src="https://cdn.worldvectorlogo.com/logos/dot-net-core-7.svg" alt=".NetLogo" width="35" height="35"/> <img src="https://cdn.worldvectorlogo.com/logos/debian.svg" alt="DebianLogo" width="35" height="35"/> 
 ---
 
 -👀 I’m interested in Software Engineering and Game Development (Unity & Godot) 
