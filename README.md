@@ -3,9 +3,11 @@
 
 
 
----
+---!
 
-<img src="https://www.canva.com/design/DAE9KROXMuo/view" height="1200" width="396">
+[Ivory Grey Minimalist Business LinkedIn Banner(1)](https://user-images.githubusercontent.com/83520578/162101751-da56bb05-9fc8-454d-aa49-eed832776a13.png)
+
+
 
 ---
 
