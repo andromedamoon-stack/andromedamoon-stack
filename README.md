@@ -4,8 +4,7 @@
 
 
 ---!
-
-[Ivory Grey Minimalist Business LinkedIn Banner(1)](https://user-images.githubusercontent.com/83520578/162101751-da56bb05-9fc8-454d-aa49-eed832776a13.png)
+![](https://user-images.githubusercontent.com/83520578/162101968-34835f2d-9f37-41af-9cc9-8877192698a0.png)
 
 
 
