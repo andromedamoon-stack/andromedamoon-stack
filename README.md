@@ -23,7 +23,6 @@ Python, HTML, CSS, Javascript, SQL, AWS
 
 ✍️  In my free time, I painting, reading, and enjoying time with family and pets 🦜 🐕
 
-Images by [yessesse](https://yessesse.com/)
 
 <!---
 andromedamoon-stack/andromedamoon-stack is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
