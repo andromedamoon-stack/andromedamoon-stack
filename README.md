@@ -2,7 +2,7 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Sarah!
 
 
-<img src="https://images.squarespace-cdn.com/content/v1/567afceac21b864703fc3ffc/1574122539102-2Y4666I2XK7XXX3KNWWV/IMG_0221.JPG?format=500w" width="200">
+
 
 ### My Toolbox
 
