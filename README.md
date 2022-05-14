@@ -9,7 +9,9 @@
 
 ---
 
--👀 I’m interested in Software Engineering and Game Development (Godot) 
+-👀 I’m interested in Software Engineering, AWS and the cloud, and Game Development (Godot) 
+
+- Currently studying for Network+ and AWS Associate Developer Certifications
 
 -🧮 Bachelor's in Interdiciplinary Studies. Currently studing for a Master's Information Technology with a concentration in Software Development.
 
