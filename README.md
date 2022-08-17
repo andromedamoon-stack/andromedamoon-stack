@@ -4,7 +4,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-Python, C#, SQL, Computer Networking, AWS, Windows, Linux
+Python, C#, SQL, Networking, AWS, Windows & Linux Administration
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=andromedamoon-stack&show_icons=true&locale=en" alt="andromedamoon-stack" /></p>
 
