@@ -13,11 +13,11 @@ Python, C#, SQL, Networking, AWS, Windows & Linux Administration
 
 ---
 
--👀 I’m interested in Software Engineering, AWS, Cloud, and Game Development (Godot) 
+-👀 I’m interested in Software Engineering, AWS, Cloud, and Networking. 
 
-- Currently studying for Network+ and AWS Associate Developer Certifications
+- Currently studying for CCNA 
 
--🧮 Bachelor's in Interdiciplinary Studies. Currently studing for the Cisco CCNA.
+-🧮 Bachelor's in Interdiciplinary Studies
 
 -💬  Owner & moderator of the Computer Science Study Group discord & CSSG Labs.Feel free to talk with me on our server: https://discord.gg/9Z7SM8mT!
 
