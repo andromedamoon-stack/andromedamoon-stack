@@ -4,7 +4,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-Python, C#, SQL, Networking, AWS, Windows & Linux Administration
+Python, Powershell, SQL, Networking, Azure, Google Cloud, Windows & Linux Administration
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=andromedamoon-stack&show_icons=true&locale=en" alt="andromedamoon-stack" /></p>
 
@@ -13,9 +13,9 @@ Python, C#, SQL, Networking, AWS, Windows & Linux Administration
 
 ---
 
--👀 I’m interested in Software Engineering, AWS, Cloud, and Networking. 
+-👀 I’m interested in Cybersecurity and Cloud. 
 
-- Currently studying for CCNA 
+- Currently studying for Microsoft SC-200 and Security+
 
 -🧮 Bachelor's in Interdiciplinary Studies
 
