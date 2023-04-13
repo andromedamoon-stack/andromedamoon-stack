@@ -23,8 +23,6 @@ Python, Powershell, SQL, Networking, Azure, Google Cloud, Windows & Linux Admini
 
 -💬  Owner & moderator of the Computer Science Study Group discord & CSSG Labs.Feel free to talk with me on our server: https://discord.gg/9Z7SM8mT!
 
--✉️  You can drop me an email at sw115974@gmail.com with subject containing "GitHub: ..."! 
-
 ✍️  In my free time, I painting, reading, and enjoying time with family and pets 🦜 🐕
 
 
