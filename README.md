@@ -17,7 +17,7 @@ Python, Powershell, SQL, Networking, Azure, Google Cloud, Windows & Linux Admini
 
 - Currently studying for Microsoft SC-200 and Security+
 
--🧮 Bachelor's in Interdiciplinary Studies
+-🧮 Bachelor's in Interdiciplinary Studies. Certifications: AZ 900
 
 -💬  Owner & moderator of the Computer Science Study Group discord & CSSG Labs.Feel free to talk with me on our server: https://discord.gg/9Z7SM8mT!
 
