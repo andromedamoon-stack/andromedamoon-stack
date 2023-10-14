@@ -4,8 +4,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-Python, Powershell, SQL, Networking, Azure, Google Cloud, Windows & Linux Administration
-
+ SQL, Azure, R, Excel
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=andromedamoon-stack&show_icons=true&locale=en" alt="andromedamoon-stack" /></p>
 
 
@@ -13,15 +12,15 @@ Python, Powershell, SQL, Networking, Azure, Google Cloud, Windows & Linux Admini
 
 ---
 
--👀 I’m interested in Cybersecurity and Cloud. 
+-👀 I’m interested in data analysis, clinical data analysis, and data science. 
 
-- Currently studying for Microsoft SC-200 and Security+
+- Currently studying: John Hopkins Data Science Certificate ( in progress, 2 out of 10 courses completed)
 
--🧮 Bachelor's in Interdiciplinary Studies.          
+-🧮 Bachelor's in Interdiciplinary Studies.  Masters in Health Information Management started in Nov 2023  (expected graduation in 2025)      
 
 -🧮Certifications: AZ 900
 
--💬  Owner & moderator of the Computer Science Study Group discord & CSSG Labs.Feel free to talk with me on our server: https://discord.gg/9Z7SM8mT!
+
 
 ✍️  In my free time, I painting, reading, and enjoying time with family and pets 🦜 🐕
 
