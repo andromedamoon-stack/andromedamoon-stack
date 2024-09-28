@@ -4,7 +4,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
- SQL, Azure, R, Excel
+ SQL, Azure, Python, Excel
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=andromedamoon-stack&show_icons=true&locale=en" alt="andromedamoon-stack" /></p>
 
 
@@ -12,12 +12,11 @@
 
 ---
 
--👀 I’m interested in data analysis, clinical data analysis, and data science. 
+-👀 I’m interested in data analysis, data science, machine learning and AI. 
 
-- Currently studying: John Hopkins Data Science Certificate ( in progress, 2 out of 10 courses completed)
 
--🧮 Bachelor's in Interdiciplinary Studies.  Masters in Health Information Management started in Nov 2023  (expected graduation in 2025)      
 
+-🧮 Bachelor's in Interdiciplinary Studies.  
 -🧮Certifications: AZ 900
 
 
